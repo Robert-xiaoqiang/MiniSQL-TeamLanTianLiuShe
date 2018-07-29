@@ -2,6 +2,8 @@
 
 - MiniSQL-TeamLanTianLiuShe is our Database System curriculum project based on C++11.
 - **IndexManager** and **partial Interpreter** are implemented by [Xiaoqiang Wang](https://robert-xiaoqiang.github.io/)
+
+
 |Other Authors| Assignments|
 |:-----|-----:|
 |[Ye Tian]()|BufferManager, Interpreter |
