@@ -1,6 +1,6 @@
 # MiniSQL-TeamLanTianLiuShe
 
-- MiniSQL-TeamLanTianLiuShe is our Database System curriculum project based on C++11.
+- MiniSQL-TeamLanTianLiuShe is our Database System curriculum project based on C++11
 - **IndexManager** and **partial Interpreter** are implemented by [Xiaoqiang Wang](https://robert-xiaoqiang.github.io/)
 
 
